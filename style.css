@@ -11,7 +11,7 @@ body {
 
 /* utilities */
 .float-left{
-    float: left;
+    margin-left: 15%;
     height: 100px;
 }
 
@@ -25,18 +25,11 @@ body {
     background-color: rgb(49 97 224);
     line-height: 120px;
 }
-.float-left ul{
-     list-style: none;
- }
 
- .float-left li{
+nav ul{
     display: inline-block;
-    list-style-type: none;
 }
 
 
-.logo{
-    position: relative;
-    left: 70%;
-}
+
 

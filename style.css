@@ -135,8 +135,43 @@ li:hover{
 
 .titolo{
     font-size: 48px;
-    width: 100%;
+}
+
+.float-left{
     float: left;
+}
 
+.float-right{
+    float: right;
+    width: 40%;
 
+}
+
+.row{
+
+    height: 100vh;
+ 
+}
+
+.titolo{
+    padding-top: 130px;
+    padding-left: 50px;
+}
+
+.float-right2{
+    float: right;
+    margin-right: 200px;
+    margin-top: 100px;
+
+}
+
+.float-left2{
+    float: left;
+    margin-left: 200px;
+    margin-bottom: 100px;
+    margin-top: 140px;
+}
+
+.titolo2{
+    font-size: 48px;
 }

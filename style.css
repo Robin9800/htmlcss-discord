@@ -230,3 +230,13 @@ li:hover{
         margin-left: 320px;
       
 }
+
+.wave svg{
+    color: hsl(0deg 0% 96%); 
+    display: block;
+}
+
+.wave.reverse svg{
+    background-color: hsl(0deg 0% 96%);;
+    color: white;
+}

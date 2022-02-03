@@ -205,12 +205,16 @@ li:hover{
     text-align: center;
 }
 .comincia{
-    margin-left: 160px;
+    margin-left: 150px;
+
+}
+
+#stelle{
+    margin-left: 150px;
 }
 
 .comincia h2{
     text-align: center;
-    background-image: url("img/stars.svg");
     background-size: cover;
     margin-bottom: 40px;
 }

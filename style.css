@@ -68,6 +68,11 @@ nav li a{
     text-decoration: underline;
 }
 
+.btn-ultimo:hover{
+    color: blue;
+    text-decoration: underline;
+}
+
 li:hover{
     color: blue;
     text-decoration: underline;

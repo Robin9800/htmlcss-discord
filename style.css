@@ -153,6 +153,12 @@ li:hover{
  
 }
 
+.row2{
+    height: 100vh;
+    background-color: hsl(0deg 0% 96%);
+}
+
+
 .titolo{
     padding-top: 130px;
     padding-left: 50px;
@@ -174,4 +180,43 @@ li:hover{
 
 .titolo2{
     font-size: 48px;
+}
+
+.row3{
+    height: 150vh;
+    background-color: hsl(0deg 0% 96%);
+}
+
+#img-big{
+    margin-left: 130px;
+}
+
+.titolo-sct4{
+    padding-top:200px;
+}
+
+.titolo4{
+    font-size: 40px;
+    text-align: center;
+}
+.comincia{
+    margin-left: 160px;
+}
+
+.comincia h2{
+    text-align: center;
+    background-image: url("img/stars.svg");
+    background-size: cover;
+    margin-bottom: 40px;
+}
+
+.btn-ultimo{
+        padding: 12px 30px;
+        border-radius: 22px;
+        font-size: 20px;
+        color: white;
+        background-color: hsl(226deg 58% 72%);
+        text-decoration: none;
+        margin-left: 320px;
+      
 }
